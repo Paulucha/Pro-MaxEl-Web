@@ -1,4 +1,4 @@
 ## Website for Pro-MaxEl
 
-I've created my first website using HTML, CSS and bootstrap.
+This is a simple website for Pro-MaxEl company created using HTML, CSS and bootstrap.
  
